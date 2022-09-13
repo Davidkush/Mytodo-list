@@ -1,0 +1,10 @@
+//Already done
+*javascript code works fyn
+*css and html works fine
+*Saved project to my github account
+
+//Yet to be done
+*Add function,ones user clicks the checkbox activity is deleted
+*Update input to be activity and time
+*Set reminder and notification.
+*css and html :updates to be done
